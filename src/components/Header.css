@@ -1,0 +1,18 @@
+.header {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.dot {
+    font-size: 70px;
+    color: #F97373;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h5 {
+    font-size: 15px;
+}

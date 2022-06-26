@@ -1,0 +1,26 @@
+img {
+    border-radius: 50%;
+    width: 30%;
+    height: 30%;
+    padding: 10px;
+}
+
+.card {
+    width: 40%;
+    height: 75%;
+    border-radius: 10px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    margin: 20px 415px;
+}
+
+.container {
+    padding-left: 5em;
+    text-align: center;
+}
+
+h1 {
+    font-size: 14px;
+    padding-top: 0.75em;
+}
